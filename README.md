@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+  # Cassie-z's Blog! Inspired by Chirpy Jekyll Theme
 
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
