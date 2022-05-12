@@ -108,7 +108,7 @@ deploy() {
   # git config --global user.name "GitHub Actions"
   # git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-  git remote set-url origin https://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@github.com/cassielz/cassielz.github.io.git
+  git remote set-url origin https://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@github.com/cassielz/cassielz.github.io.git
 
   git update-ref -d HEAD
   git add -A
