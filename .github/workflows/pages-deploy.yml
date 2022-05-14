@@ -26,6 +26,4 @@ jobs:
           bundler-cache: true
 
       - name: Deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: bash tools/deploy.sh
