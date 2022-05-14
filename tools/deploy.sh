@@ -105,8 +105,8 @@ deploy() {
   # git config --global user.name "cassielz"
   # git config --global user.email "1319997061@qq.com"
 
-  git config --global user.name "GitHub Actions"
-  git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+  # git config --global user.name "GitHub Actions"
+  # git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
   git remote set-url origin https://${SECRETS_ACCESS_TOKEN}@github.com/cassielz/cassielz.github.io.git
 
